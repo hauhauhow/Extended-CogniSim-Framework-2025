@@ -1,0 +1,17 @@
+[
+  {
+    "id": "US001",
+    "title": "Implement Digital Operational Resilience Testing Programme",
+    "description": "As a financial entity, we need to implement a digital operational resilience testing programme as outlined in Article 24, which includes executing various tests such as vulnerability assessments, open source analyses, network security assessments, and other specified tests, in accordance with the criteria set out in Article 4(2)."
+  },
+  {
+    "id": "US002",
+    "title": "Conduct Vulnerability Assessments for CSDs and CCPs",
+    "description": "As a central securities depository (CSD) or central counterparty (CCP), we must perform vulnerability assessments before any deployment or redeployment of new or existing applications, infrastructure components, and ICT services that support critical or important functions."
+  },
+  {
+    "id": "US003",
+    "title": "Risk-Based ICT Testing for Microenterprises",
+    "description": "As a microenterprise, we need to perform ICT testing by combining a risk-based approach with strategic planning, considering the balance between resource scale, time allocation, and the urgency, type of risk, and criticality of information assets and services, while also considering our ability to take calculated risks."
+  }
+]

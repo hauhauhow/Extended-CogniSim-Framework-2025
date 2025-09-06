@@ -1,0 +1,32 @@
+[
+  {
+    "id": "US001",
+    "title": "Establish a Digital Operational Resilience Testing Programme",
+    "description": "As a financial entity, I need to establish, maintain, and review a comprehensive digital operational resilience testing programme, excluding microenterprises, to assess preparedness for ICT-related incidents, identify weaknesses, and implement corrective measures as part of the ICT risk-management framework."
+  },
+  {
+    "id": "US002",
+    "title": "Incorporate Assessments and Tools into the Testing Programme",
+    "description": "As a financial entity, I need to include a range of assessments, tests, methodologies, practices, and tools in the digital operational resilience testing programme, following the guidance of Articles 25 and 26."
+  },
+  {
+    "id": "US003",
+    "title": "Follow a Risk-Based Approach for Testing Programme",
+    "description": "As a financial entity, I need to conduct the digital operational resilience testing programme using a risk-based approach, considering the evolving ICT risk landscape, specific risks, criticality of information assets, and other relevant factors, excluding microenterprises."
+  },
+  {
+    "id": "US004",
+    "title": "Ensure Independent Testing",
+    "description": "As a financial entity, I need to ensure that tests within the digital operational resilience testing programme are conducted by independent parties, either internal or external, and avoid conflicts of interest, dedicating sufficient resources for internal testers, excluding microenterprises."
+  },
+  {
+    "id": "US005",
+    "title": "Establish Procedures for Issue Management",
+    "description": "As a financial entity, I need to establish procedures and policies to prioritize, classify, and remedy issues revealed during testing, and create internal validation methodologies to address all identified weaknesses, deficiencies, or gaps, excluding microenterprises."
+  },
+  {
+    "id": "US006",
+    "title": "Conduct Annual Tests on ICT Systems",
+    "description": "As a financial entity, I need to ensure that appropriate tests are conducted at least yearly on all ICT systems and applications supporting critical or important functions, excluding microenterprises."
+  }
+]

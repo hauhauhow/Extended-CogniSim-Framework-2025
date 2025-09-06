@@ -1,0 +1,241 @@
+{
+  "analysis_timestamp": "2025-09-03T23:30:55.062933",
+  "articles_analyzed": [
+    24,
+    25
+  ],
+  "structured_results": {
+    "article_24": [
+      {
+        "requirement_coverage_rate": 91.66666666666666,
+        "compliance_gap_count_final": 1,
+        "generative_verbosity": 1233,
+        "feedback_integration_rate": 71.5909090909091,
+        "compliance_coverage_trend_data": [
+          100.0,
+          66.66666666666666,
+          83.33333333333334
+        ]
+      },
+      {
+        "requirement_coverage_rate": 66.66666666666666,
+        "compliance_gap_count_final": 4,
+        "generative_verbosity": 876,
+        "feedback_integration_rate": 79.06976744186046,
+        "compliance_coverage_trend_data": [
+          100.0,
+          66.66666666666666,
+          83.33333333333334
+        ]
+      },
+      {
+        "requirement_coverage_rate": 91.66666666666666,
+        "compliance_gap_count_final": 1,
+        "generative_verbosity": 1823,
+        "feedback_integration_rate": 70.0,
+        "compliance_coverage_trend_data": [
+          100.0,
+          91.66666666666666,
+          83.33333333333334
+        ]
+      },
+      {
+        "requirement_coverage_rate": 100.0,
+        "compliance_gap_count_final": 0,
+        "generative_verbosity": 1029,
+        "feedback_integration_rate": 64.8936170212766,
+        "compliance_coverage_trend_data": [
+          100.0,
+          83.33333333333334,
+          91.66666666666666
+        ]
+      },
+      {
+        "requirement_coverage_rate": 100.0,
+        "compliance_gap_count_final": 0,
+        "generative_verbosity": 841,
+        "feedback_integration_rate": 70.23809523809523,
+        "compliance_coverage_trend_data": [
+          83.33333333333334,
+          75.0,
+          91.66666666666666
+        ]
+      }
+    ],
+    "article_25": [
+      {
+        "requirement_coverage_rate": 83.33333333333334,
+        "compliance_gap_count_final": 1,
+        "generative_verbosity": 768,
+        "feedback_integration_rate": 66.12903225806451,
+        "compliance_coverage_trend_data": [
+          83.33333333333334,
+          83.33333333333334,
+          100.0
+        ]
+      },
+      {
+        "requirement_coverage_rate": 83.33333333333334,
+        "compliance_gap_count_final": 1,
+        "generative_verbosity": 798,
+        "feedback_integration_rate": 67.64705882352942,
+        "compliance_coverage_trend_data": [
+          83.33333333333334,
+          83.33333333333334,
+          83.33333333333334
+        ]
+      },
+      {
+        "requirement_coverage_rate": 100.0,
+        "compliance_gap_count_final": 0,
+        "generative_verbosity": 922,
+        "feedback_integration_rate": 75.0,
+        "compliance_coverage_trend_data": [
+          83.33333333333334,
+          100.0,
+          66.66666666666666
+        ]
+      },
+      {
+        "requirement_coverage_rate": 100.0,
+        "compliance_gap_count_final": 0,
+        "generative_verbosity": 1164,
+        "feedback_integration_rate": 76.47058823529412,
+        "compliance_coverage_trend_data": [
+          83.33333333333334,
+          100.0,
+          66.66666666666666
+        ]
+      },
+      {
+        "requirement_coverage_rate": 83.33333333333334,
+        "compliance_gap_count_final": 1,
+        "generative_verbosity": 815,
+        "feedback_integration_rate": 78.0,
+        "compliance_coverage_trend_data": [
+          83.33333333333334,
+          83.33333333333334,
+          100.0
+        ]
+      }
+    ]
+  },
+  "unstructured_results": {
+    "article_24": [
+      {
+        "requirement_coverage_rate": 75.0,
+        "compliance_gap_count_final": 3,
+        "generative_verbosity": 362,
+        "feedback_integration_rate": null,
+        "compliance_coverage_trend_data": null
+      },
+      {
+        "requirement_coverage_rate": 75.0,
+        "compliance_gap_count_final": 3,
+        "generative_verbosity": 469,
+        "feedback_integration_rate": null,
+        "compliance_coverage_trend_data": null
+      },
+      {
+        "requirement_coverage_rate": 58.333333333333336,
+        "compliance_gap_count_final": 5,
+        "generative_verbosity": 506,
+        "feedback_integration_rate": null,
+        "compliance_coverage_trend_data": null
+      },
+      {
+        "requirement_coverage_rate": 91.66666666666666,
+        "compliance_gap_count_final": 1,
+        "generative_verbosity": 424,
+        "feedback_integration_rate": null,
+        "compliance_coverage_trend_data": null
+      },
+      {
+        "requirement_coverage_rate": 75.0,
+        "compliance_gap_count_final": 3,
+        "generative_verbosity": 451,
+        "feedback_integration_rate": null,
+        "compliance_coverage_trend_data": null
+      }
+    ],
+    "article_25": [
+      {
+        "requirement_coverage_rate": 50.0,
+        "compliance_gap_count_final": 3,
+        "generative_verbosity": 350,
+        "feedback_integration_rate": null,
+        "compliance_coverage_trend_data": null
+      },
+      {
+        "requirement_coverage_rate": 33.33333333333333,
+        "compliance_gap_count_final": 4,
+        "generative_verbosity": 456,
+        "feedback_integration_rate": null,
+        "compliance_coverage_trend_data": null
+      },
+      {
+        "requirement_coverage_rate": 50.0,
+        "compliance_gap_count_final": 3,
+        "generative_verbosity": 428,
+        "feedback_integration_rate": null,
+        "compliance_coverage_trend_data": null
+      },
+      {
+        "requirement_coverage_rate": 50.0,
+        "compliance_gap_count_final": 3,
+        "generative_verbosity": 532,
+        "feedback_integration_rate": null,
+        "compliance_coverage_trend_data": null
+      },
+      {
+        "requirement_coverage_rate": 50.0,
+        "compliance_gap_count_final": 3,
+        "generative_verbosity": 495,
+        "feedback_integration_rate": null,
+        "compliance_coverage_trend_data": null
+      }
+    ]
+  },
+  "comparative_analysis": {
+    "article_24": {
+      "requirement_coverage_rate": {
+        "structured_mean": 90.0,
+        "structured_std": 12.25,
+        "unstructured_mean": 75.0,
+        "unstructured_std": 10.54,
+        "mann_whitney_u_p_value": 0.1326,
+        "cohens_d": 1.31,
+        "statistical_significance": "No"
+      },
+      "generative_verbosity": {
+        "structured_mean": 1160.4,
+        "structured_std": 359.02,
+        "unstructured_mean": 442.4,
+        "unstructured_std": 48.23,
+        "mann_whitney_u_p_value": 0.0079,
+        "cohens_d": 2.8,
+        "statistical_significance": "Yes"
+      }
+    },
+    "article_25": {
+      "requirement_coverage_rate": {
+        "structured_mean": 90.0,
+        "structured_std": 8.16,
+        "unstructured_mean": 46.67,
+        "unstructured_std": 6.67,
+        "mann_whitney_u_p_value": 0.0086,
+        "cohens_d": 5.81,
+        "statistical_significance": "Yes"
+      },
+      "generative_verbosity": {
+        "structured_mean": 893.4,
+        "structured_std": 144.92,
+        "unstructured_mean": 452.2,
+        "unstructured_std": 62.04,
+        "mann_whitney_u_p_value": 0.0079,
+        "cohens_d": 3.96,
+        "statistical_significance": "Yes"
+      }
+    }
+  }
+}
