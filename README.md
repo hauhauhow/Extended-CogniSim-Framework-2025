@@ -48,9 +48,3 @@ python analyze_results.py
 
 This generates comparative metrics including requirement coverage rates, feedback integration rates, and compliance coverage trends.
 
-## Next Steps
-
-- Review the generated artifacts in the simulation output directory
-- Examine agent configurations in `cognisim_v20/personas/`
-- Explore the evaluation metrics in the results analysis engine
-- Modify agent prompts to customize regulatory interpretation behavior
