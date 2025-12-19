@@ -1,3 +1,10 @@
+Extended CogniSim Framework for DORA Compliance
+The Extended CogniSim Framework applies multi-agent systems to regulatory compliance in banking, specifically targeting the EU's Digital Operational Resilience Act (DORA). The framework extends the original CogniSim software engineering tool to handle financial regulatory compliance workflows.
+The system simulates Agile Scrum teams using AI agents powered by Large Language Models (ChatGPT-3.5 and 4.0) to generate compliance test plans for DORA Articles 24 and 25. Manager Agents (Product Owner, Scrum Master) and Executor Agents (Developers) work through iterative sprints, incorporating feedback and refining deliverables. The architecture operates through five phases: user invocation, regulatory requirement ingestion, sprint development, final synthesis, and post-simulation analysis.
+The repository includes all agent configurations, simulation logic written in Python using LangChain, and evaluation metrics for reproducibility.
+
+
+
 # Gemini CLI
 
 [![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)
